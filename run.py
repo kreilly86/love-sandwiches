@@ -26,6 +26,6 @@ def get_sales_data():
 
 get_sales_data()
 
-data = sales.get_all_values()
+
 
 print(data)
